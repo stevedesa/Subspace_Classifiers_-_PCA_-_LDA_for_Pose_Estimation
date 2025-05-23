@@ -1,10 +1,5 @@
 # Subspace Classifiers: PCA & LDA for Pose Estimation
 
-## Author
-Steve Nathan de Sa  
-CSC 448 - Machine Learning  
-Due: March 24, 2025  
-
 ## Overview
 
 This project explores the power of **subspace learning** techniques, particularly:
